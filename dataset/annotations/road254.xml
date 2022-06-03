@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>road254.png</filename>
+	<path>C:\Users\vasyl\Desktop\dataset\images\road254.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trafficlight_red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>122</ymin>
+			<xmax>205</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

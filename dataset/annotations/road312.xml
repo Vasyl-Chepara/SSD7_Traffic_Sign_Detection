@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>road312.png</filename>
+	<path>C:\Users\vasyl\Desktop\dataset\images\road312.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crosswalk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>125</ymin>
+			<xmax>324</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

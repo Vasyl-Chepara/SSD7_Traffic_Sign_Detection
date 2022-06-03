@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_img</folder>
+	<filename>road412.png</filename>
+	<path>C:\Users\vasyl\Desktop\resized_img\road412.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trafficlight_red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>40</ymin>
+			<xmax>258</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

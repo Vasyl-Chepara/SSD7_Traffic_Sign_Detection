@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_img</folder>
+	<filename>road776.png</filename>
+	<path>C:\Users\vasyl\Desktop\resized_img\road776.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trafficlight_green</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>43</ymin>
+			<xmax>307</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>
